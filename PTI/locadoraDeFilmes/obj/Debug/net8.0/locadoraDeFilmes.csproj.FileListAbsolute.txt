@@ -1,0 +1,14 @@
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\bin\Debug\net8.0\locadoraDeFilmes.exe
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\bin\Debug\net8.0\locadoraDeFilmes.deps.json
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\bin\Debug\net8.0\locadoraDeFilmes.runtimeconfig.json
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\bin\Debug\net8.0\locadoraDeFilmes.dll
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\bin\Debug\net8.0\locadoraDeFilmes.pdb
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.AssemblyInfoInputs.cache
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.AssemblyInfo.cs
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.csproj.CoreCompileInputs.cache
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.dll
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\refint\locadoraDeFilmes.dll
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.pdb
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\locadoraDeFilmes.genruntimeconfig.cache
+c:\Users\Administrador\Documents\PTI\locadoraDeFilmes\obj\Debug\net8.0\ref\locadoraDeFilmes.dll
