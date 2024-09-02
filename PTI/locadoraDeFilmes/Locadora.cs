@@ -26,9 +26,9 @@ public class Locadora
         }
 
         // Exibir detalhes de cada filme, incluindo estoque
-        foreach (Filme filme in filmes)
+        foreach (Filme lista in filmes)
         {
-            System.Console.WriteLine($"Nome: {filme.nome}, Preço: {filme.preco}, Autor(a): {filme.autor}, Gênero: {filme.genero} - {filme.estoque} estoque");
+            System.Console.WriteLine($"Nome: {lista.nome}, Preço: {lista.preco}, Autor(a): {lista.autor}, Gênero: {lista.genero} - {lista.estoque} estoque");
         }
     }
 
@@ -72,18 +72,18 @@ public class Locadora
                 return;
             }
         }
-        System.Console.WriteLine("Filme não encontrado!");
+        System.Console.WriteLine("  " + nome);
     }
 
     public void SaidaEstoque(string nome, int quantidade)
     {
-        foreach (Filme filme in filmes)
+        foreach (Filme lista in filmes)
         {
-            if (filme.nome == nome)
+            if (lista.nome == nome)
             {
-                if (filme.estoque >= quantidade)
+                if (lista.estoque >= quantidade)
                 {
-                    filme.estoque -= quantidade;
+                    lista.estoque -= quantidade;
                 }
                 else
                 {
@@ -93,6 +93,7 @@ public class Locadora
             }
         }
         System.Console.WriteLine("Filme não encontrado!");
+          
     }
 
     public void sair(string text)
